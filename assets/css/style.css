@@ -87,18 +87,18 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* Individual benefit styling */
+/* Individual benefit info styling */
 .benefit-info {
     margin-bottom: 32px;
     color: #ffffff;
 
 }
-/* Styling for h3 within benefit sections */
+/* Styling for h3 within benefit info sections */
 .benefit-info h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/* Styling for images within benefit sections */
+/* Styling for images within benefit info sections */
 .benefit-info img {
     display: block;
     margin: 10px auto;
@@ -113,9 +113,11 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+/* Styling for images within discovery info section */
 .discovery-info img {
     max-height: 200px;
 }
+/* Styling for h2 within discovery info section */
 .discovery-info h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -127,8 +129,9 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-/* Styling for h2 within footer */
+/* Styling for h6 within footer */
 /* Changed from 5px to 16px to match the paragraph element associated with the footer */
+/* Changed from h2 to h6 */
 .footer h6 {
     font-size: 16px;
 }
