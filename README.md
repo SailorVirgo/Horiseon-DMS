@@ -22,6 +22,8 @@ Efforts have been made to ensure accessibility standards are met. Alt attributes
 ## Getting Started
 To view the website, simply open the `index.html` file in a web browser. If you wish to contribute or make changes, you can clone the repository and create a pull request.
 
+![](image/Screenshot_2-3-2024_202742_sailorvirgo.github.io.jpeg)
+
 ```bash
 git clone git@github.com:SailorVirgo/Horiseon-DMS.git
 cd horiseon
@@ -30,4 +32,4 @@ link to deployed application
 https://sailorvirgo.github.io/Horiseon-DMS/
 
 
-![Screenshot_2-3-2024_202742_sailorvirgo github io](https://github.com/SailorVirgo/Horiseon-DMS/assets/153470839/7c3a934d-a763-4d9c-a756-aa2d9ec9dcf1)
+
