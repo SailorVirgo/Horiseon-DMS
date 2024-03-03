@@ -30,4 +30,4 @@ link to deployed application
 https://sailorvirgo.github.io/Horiseon-DMS/
 
 
-![Screenshot_2-3-2024_201858_sailorvirgo github io](https://github.com/SailorVirgo/Horiseon-DMS/assets/153470839/0a6c15f1-649e-47e7-bc3c-a5ba7408f42f)
+![Screenshot_2-3-2024_202742_sailorvirgo github io](https://github.com/SailorVirgo/Horiseon-DMS/assets/153470839/7c3a934d-a763-4d9c-a756-aa2d9ec9dcf1)
